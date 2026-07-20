@@ -1,0 +1,5 @@
+Boshlanish animatsiyasi qaytarildi.
+
+- Sayt ochilganda to'liq ekran terminal yozuvlari harfma-harf chiqadi.
+- Keyin asosiy sahifada $ whoami animatsiyasi ishlaydi.
+- Animatsiya har safar sahifa qayta ochilganda ko'rinadi.

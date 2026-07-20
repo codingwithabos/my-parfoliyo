@@ -1,0 +1,3 @@
+PRODUCTION BUILD / YANGI LOYIHALARGA TAYYOR status paneli olib tashlandi.
+Home, loyiha va demo sahifalarida ushbu yuqori panel endi chiqmaydi.
+Mobil sahifadagi ortiqcha joy ham yo'qoldi.

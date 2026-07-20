@@ -1,0 +1,12 @@
+SMS/XABAR TUZATILDI
+=====================
+1. React form endi Netlify uchun alohida /forms.html statik blueprint orqali yuboradi.
+2. Form POST manzili /forms.html qilindi.
+3. Localhost:5173 va localhost:3001 da /api/contact ishlaydi.
+4. Internet haqidagi noto‘g‘ri umumiy xabar o‘rniga aniq server/Form xatolari chiqadi.
+5. Menyu tugmasidagi bitta "-" muammosi olib tashlandi: SVG hamburger va aniq X ishlaydi.
+
+NETLIFYDA BIR MARTA BAJARING:
+Project configuration -> Forms -> Enable form detection.
+So‘ng Deploys -> Trigger deploy -> Clear cache and deploy site.
+Xabar emailga ham kelsin: Forms -> Form notifications -> Add notification -> Email notification.

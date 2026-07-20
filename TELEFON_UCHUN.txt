@@ -1,0 +1,13 @@
+TELEFON UCHUN MOSLANGAN VERSIYA
+
+- 320px dan boshlab ishlaydi
+- Mobil menyu toliq ekranga sigadi
+- Kartalar bir ustunda chiqadi
+- Forma va inputlar telefonda qulay
+- Admin panel menyusi gorizontal suriladi
+- Admin tahrirlash oynasi telefonda toliq ekran
+- Kod va uzun matnlar ekrandan chiqmaydi
+
+ISHGA TUSHIRISH: BOSHLASH.cmd yoki START.bat
+SAYT: http://localhost:3001
+ADMIN: http://localhost:3001/admin

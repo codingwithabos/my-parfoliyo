@@ -1,0 +1,10 @@
+PORTFOLIONI YANADA KUCHAYTIRISH UCHUN
+=====================================
+1. Har bir loyiha uchun haqiqiy screenshot, Live Demo va GitHub havolasi.
+2. 3-5 ta real mijoz fikri va bajarilgan natijalar.
+3. GitHub faoliyati: repo, commit va texnologiyalar statistikasi.
+4. Sertifikatlarni haqiqiy PDF/rasmlar bilan to‘ldirish.
+5. Shaxsiy domen: masalan abbossodiqjonov.uz yoki abbosdev.uz.
+6. Netlify Analytics yoki Google Analytics orqali tashriflar statistikasi.
+7. Admin xabarlariga email notification va spam filtri.
+8. Ingliz va rus tarjimalarini barcha loyiha matnlarida to‘liq yakunlash.

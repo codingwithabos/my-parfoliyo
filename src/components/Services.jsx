@@ -1,0 +1,6 @@
+import { useInViewOnce } from '../hooks/useInViewOnce.js'
+import { useLanguage } from '../context/LanguageContext.jsx'
+import { useContent } from '../context/ContentContext.jsx'
+import { localize } from '../utils/localize.js'
+import TerminalWindow from './TerminalWindow.jsx'
+export default function Services(){const [ref,v]=useInViewOnce({threshold:.1}),{t,language}=useLanguage(),{content}=useContent();const items=(content.services||[]).filter(x=>x.active!==false);return <section className="section" id="services" ref={ref}><div className="container"><TerminalWindow title="~/portfolio/services.config.js" className={`reveal ${v?'visible':''}`}><div className="terminal-body"><span className="section-label">{t('services.label')}</span><h2 className="section-title">{t('services.title')}</h2><p className="section-subtitle">{t('services.subtitle')}</p><div className="services-grid">{items.map((x,i)=><article className={`service-card reveal ${v?'visible':''}`} key={x.id} style={{transitionDelay:`${i*70}ms`}}><div className="service-card__head"><span>{x.number||String(i+1).padStart(2,'0')}</span><i>●</i></div><h3>{localize(x.title,language)}</h3><p>{localize(x.text,language)}</p><code>$ {x.command}</code></article>)}</div></div></TerminalWindow></div></section>}

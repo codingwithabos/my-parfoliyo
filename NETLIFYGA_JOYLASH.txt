@@ -1,0 +1,8 @@
+NETLIFYGA JOYLASH
+
+Build command: npm run build
+Publish directory: dist
+
+Telegram bot kerak emas. Forma Netlify Forms orqali ishlaydi.
+Deploy bo‘lgach Netlify loyihasidagi Forms bo‘limida “portfolio-contact” formasi ko‘rinadi.
+Email bildirishnoma uchun Forms notification sozlamasida admin emailingizni kiriting.

@@ -1,0 +1,32 @@
+ADMIN PANEL QO‘SHILDI VA TO‘LIQ ULANDI
+
+Admin manzil:
+  /admin
+
+Masalan:
+  Railway: https://SIZNING-DOMEN.up.railway.app/admin
+  Netlify: https://SIZNING-SAYT.netlify.app/admin
+
+Railway Variables:
+  ADMIN_USERNAME=admin
+  ADMIN_PASSWORD=kamida_12_belgili_kuchli_parol
+  ADMIN_SECRET=kamida_32_belgili_maxfiy_kod
+
+Netlify saytda admin panel Railway backend bilan ishlashi uchun Netlify Environment Variables ichiga:
+  VITE_API_URL=https://SIZNING-DOMEN.up.railway.app
+
+Shundan keyin Netlify’da Clear cache and deploy site qiling.
+
+Admin panel funksiyalari:
+- Dashboard va tashrif statistikasi
+- Saytdan kelgan xabarlar
+- Xabar holatini o‘zgartirish va o‘chirish
+- Excel eksport
+- Loyihalar, xizmatlar, ko‘nikmalar, tajriba qo‘shish/tahrirlash/o‘chirish
+- Profil ma’lumotlarini boshqarish
+- Dizayn va rangni boshqarish
+- Parolni almashtirish va faoliyat loglari
+
+Eslatma:
+Netlify Forms orqali kelgan xabarlar faqat Netlify Forms panelida turadi.
+Xabarlar saytdagi /admin panelida ham chiqishi uchun Netlify’da VITE_API_URL Railway backendga ulangan bo‘lishi kerak. Shunda forma xabarni bevosita Railway API ga yuboradi.

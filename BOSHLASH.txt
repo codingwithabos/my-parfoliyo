@@ -1,0 +1,9 @@
+ISHGA TUSHIRISH
+===============
+1. ZIP faylni Extract All / Извлечь все qiling.
+2. Papka ichidagi START.bat faylini ikki marta bosing.
+3. Hech qanday npm install, cd yoki PowerShell buyrug‘i kerak emas.
+4. Sayt: http://localhost:3001
+5. Admin: http://localhost:3001/admin
+6. Login va parol birinchi ishga tushgach ADMIN_LOGIN.txt ichida yaratiladi.
+7. Qora terminal oynasini yopmang va Ctrl+C bosmang.

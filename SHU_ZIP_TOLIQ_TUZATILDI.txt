@@ -1,0 +1,16 @@
+SHU ZIP UCHUN BAJARILGAN TUZATISHLAR
+
+1. Railway deploy sozlamalari kuchaytirildi.
+2. Frontend build topilmasa start paytida avtomatik yaratiladi.
+3. Railway va custom domenda murojaat /api/contact orqali admin panelga tushadi.
+4. Netlify hostida Netlify Forms ishlaydi; backend bo‘lmasa zaxira yo‘l qo‘llanadi.
+5. API ishlamasa ham portfolio lokal tayyor ma’lumotlar bilan ko‘rinadi.
+6. PostgreSQL bo‘sh bo‘lsa ham projects/services/skills/experience yashirinmaydi.
+7. Intro animatsiya to‘xtab qolsa ham asosiy sahifa ochiq qoladi.
+8. Mobil menyuda eski bitta chiziq bekor qilinib, SVG hamburger va X saqlandi.
+9. CORS Railway, Netlify, localhost va bir xil domen uchun to‘g‘rilandi.
+10. Eski index keshda qolmasligi uchun cache sozlamalari tuzatildi.
+
+Railway build: npm ci --include=dev && npm run build
+Railway start: npm start
+Health check: /api/health

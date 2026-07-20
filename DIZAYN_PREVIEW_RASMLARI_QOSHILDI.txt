@@ -1,0 +1,4 @@
+Dizayn bo'limidagi 5 ta variantga haqiqiy preview rasmlar qo'shildi.
+Klassik, Dashboard, Glass, Yorug' va Terminal variantlari alohida ko'rinishga ega.
+Tanlangan holati, UZ/RU/EN tarjimalari, hover/focus effektlari va mobil gorizontal ko'rinish yaxshilandi.
+Admin paneldagi dizayn kartalariga ham shu preview rasmlar qo'shildi.

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>Portfolio contact form</title>
+</head>
+<body>
+  <!-- Netlify build-bot uchun statik forma blueprint. Saytning React formasi shu nom va maydonlardan foydalanadi. -->
+  <form
+    name="portfolio-contact"
+    method="POST"
+    action="/message-success.html"
+    data-netlify="true"
+    netlify-honeypot="company"
+  >
+    <input type="hidden" name="form-name" value="portfolio-contact" />
+    <p hidden><label>Company <input name="company" /></label></p>
+    <label>Ism <input name="name" /></label>
+    <label>Telefon <input name="phone" /></label>
+    <label>Telegram <input name="telegram" /></label>
+    <label>Email <input name="email" /></label>
+    <label>Mavzu <input name="subject" /></label>
+    <label>Xabar <textarea name="message"></textarea></label>
+    <input name="source" />
+    <input name="submittedAt" />
+    <input name="language" />
+    <input name="page" />
+    <button type="submit">Yuborish</button>
+  </form>
+</body>
+</html>

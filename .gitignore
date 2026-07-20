@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+server/data/messages.json
+*.log
+server/data/admin.json
+server/data/activity.json
+server/data/analytics.json

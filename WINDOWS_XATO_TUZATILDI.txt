@@ -1,0 +1,3 @@
+Windowsdagi C:\\C:\\... yo'l xatosi tuzatildi.
+Ishga tushirish: BOSHLASH.cmd yoki START.bat faylini ikki marta bosing.
+Terminal orqali: .\BOSHLASH.cmd

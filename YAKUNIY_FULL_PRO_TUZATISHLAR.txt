@@ -1,0 +1,35 @@
+SODIQJONOV ABBOS PORTFOLIO — FULL PRO YAKUNIY VERSIYA
+
+TUZATILDI:
+1. Netlify murojaat formasi qayta yozildi. Productionda xabar to‘g‘ridan-to‘g‘ri Netlify Forms orqali yuboriladi.
+2. Lokal http://localhost:3001 rejimida xabar backend va admin panelga saqlanadi.
+3. Yuborish vaqti tugashi, internet xatosi, validatsiya va muvaffaqiyat holatlari aniq ko‘rsatiladi.
+4. Netlify formani build paytida topishi uchun index.html ichida yashirin statik forma saqlandi.
+5. Mobil menyuda ichki va tashqi yopish tugmalarida aniq X belgisi ishlaydi.
+6. Menyu Escape tugmasi, fonni bosish va bo‘lim tanlash orqali yopiladi.
+
+YANGI PROFESSIONAL DIZAYN:
+1. SYSTEM ONLINE developer status paneli.
+2. Full-stack programmer hero ko‘rinishi va developer.profile.js kodi.
+3. React, TypeScript, Node.js, Express, PostgreSQL va Git stack badge’lari.
+4. Production statistika kartalari.
+5. Terminal oynalariga runtime holati va professional toolbar.
+6. Grid fon, neon aksentlar, glass panellar, hover va focus effektlari.
+7. Kontakt formasi secure request paneli bilan yangilandi.
+8. Desktop, planshet va telefon uchun responsive moslashtirildi.
+9. Klassik, Dashboard, Glass, Yorug‘ va Terminal dizaynlari saqlandi.
+
+NETLIFY:
+- Build command: npm run build
+- Publish directory: dist
+- Xabarlar: Netlify > Forms > portfolio-contact
+- Email notification: Forms > Form notifications > Add notification
+
+GITHUB YANGILASH:
+git init
+git add .
+git commit -m "Portfolio full pro yangilandi"
+git branch -M main
+git remote remove origin
+git remote add origin https://github.com/codingwithabos/my-parfoliyo.git
+git push -u origin main --force

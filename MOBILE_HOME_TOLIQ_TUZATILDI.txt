@@ -1,0 +1,11 @@
+MOBILE HOME TOLIQ TUZATILDI — V6.3.0
+
+- Telefonda Home bo‘limining yarmi kesilib qolishi bartaraf qilindi.
+- Body, site-shell, hero, terminal va profil kartadagi gorizontal overflow tozalandi.
+- Dashboard dizayni telefonda sahifani chapga surmaydi.
+- Hero ism, kasb, matn, tugmalar, stack va statistikalar kichik ekranlarga moslandi.
+- Profil rasmi, kod oynasi va status matni 320px ekranda ham to‘liq ko‘rinadi.
+- Navbar + status bar + hero orasidagi ortiqcha yuqori bo‘shliq olib tashlandi.
+- Ikki marta ishlayotgan eski inline terminal intro olib tashlandi; React intro saqlandi.
+- 320px, 360px, 390px, 720px va planshet breakpointlari kuchaytirildi.
+- Railway va Netlify sozlamalari saqlandi.

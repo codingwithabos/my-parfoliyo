@@ -1,0 +1,3 @@
+Sayt ochilganda avval to'liq ekranli terminal intro chiqadi.
+Buyruqlar harfma-harf yoziladi, keyin portfolio avtomatik ochiladi.
+Enter yoki O'tkazib yuborish tugmasi orqali introni tez o'tkazish mumkin.

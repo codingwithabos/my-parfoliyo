@@ -1,0 +1,12 @@
+DIZAYN ALMASHTIRISH
+
+Sayt menyusidagi Dizayn tanlovidan 5 xil ko‘rinish tanlanadi:
+1. Klassik
+2. Dashboard — chap yon menyuli ko‘rinish
+3. Glass — binafsha/ko‘k shisha effekt
+4. Yorug‘ — oq professional dizayn
+5. Terminal — qora terminal dizayn
+
+Ranglar: yashil, ko‘k, binafsha, qizil, cyan va oltin.
+Tanlangan dizayn va rang brauzerda saqlanadi.
+Telefon ekranida barcha dizaynlar avtomatik mobil ko‘rinishga o‘tadi.

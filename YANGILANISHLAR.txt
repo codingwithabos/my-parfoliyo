@@ -1,0 +1,9 @@
+YANGILANISHLAR
+
+- Men haqimda bo‘limi qayta dizayn qilindi.
+- Profil rasmi, professional tavsif, texnologiyalar va statistika joylandi.
+- Telefon ekranida barcha bo‘limlar moslashuvchan ishlaydi.
+- Telegram bot to‘liq olib tashlandi.
+- Netlifyda aloqa formasi Netlify Forms orqali ishlaydi.
+- Barcha murojaatlar faqat loyiha administratorining Forms bo‘limiga tushadi.
+- Lokal ishga tushirilganda murojaatlar /admin panelida saqlanadi.

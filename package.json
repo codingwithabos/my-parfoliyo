@@ -1,0 +1,33 @@
+{
+  "name": "sodiqjonov-abbos-terminal-ultimate-portfolio",
+  "private": true,
+  "version": "6.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:client": "vite --host 0.0.0.0",
+    "dev:server": "node --watch server/server.js",
+    "build": "node node_modules/vite/bin/vite.js build",
+    "start": "node scripts/start-production.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "install:all": "npm install --include=dev",
+    "clean:install": "node scripts/clean-install.mjs",
+    "prebuild": "node scripts/generate-meta.mjs",
+    "start:server": "node server/server.js",
+    "railway:build": "npm ci --include=dev && npm run build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.3.0",
+    "pg": "^8.22.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^8.1.5"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}

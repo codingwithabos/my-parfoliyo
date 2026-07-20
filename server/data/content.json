@@ -1,0 +1,469 @@
+{
+  "profile": {
+    "fullName": "Sodiqjonov Abbos",
+    "firstName": "Abbos",
+    "lastName": "Sodiqjonov",
+    "role": "React va Backend Dasturchi",
+    "headline": "Frontend va backendni bitta ishlaydigan tizimga birlashtiraman.",
+    "aboutTitle": "Frontend va backendni bitta ishlaydigan tizimga birlashtiraman.",
+    "aboutBody1": "React va Vue yordamida responsive, tez va qulay interfeyslar yarataman.",
+    "aboutBody2": "Node.js, Express, REST API, authentication va ma’lumotlar bazasi bilan to‘liq backend ishlab chiqaman.",
+    "telegram": "@sodiqjonv_abbos",
+    "telegramUrl": "https://t.me/sodiqjonv_abbos",
+    "phone": "",
+    "email": "",
+    "workHours": "09:00–21:00",
+    "responseTime": "24 soat ichida",
+    "imageUrl": "",
+    "available": true,
+    "design": "classic",
+    "theme": "green"
+  },
+  "projects": [
+    {
+      "id": "educrm",
+      "slug": "educrm",
+      "file": "EduCRM.jsx",
+      "secondTab": "server/api.js",
+      "name": {
+        "uz": "EduCRM",
+        "ru": "EduCRM",
+        "en": "EduCRM"
+      },
+      "type": {
+        "uz": "Ta’lim uchun Full-Stack CRM",
+        "ru": "Full-Stack CRM для образования",
+        "en": "Full-Stack Education CRM"
+      },
+      "description": {
+        "uz": "O‘quvchilar, operatorlar, sotuvlar va hisobotlarni boshqarish tizimi",
+        "ru": "Система управления учениками, операторами, продажами и отчётами",
+        "en": "A system for managing students, operators, sales and reports"
+      },
+      "features": [
+        "Role system",
+        "Dashboard",
+        "Excel reports",
+        "Real-time alerts"
+      ],
+      "stack": [
+        "React",
+        "Express",
+        "PostgreSQL"
+      ],
+      "image": "/assets/projects/educrm.svg",
+      "github": "",
+      "live": "/demo/educrm",
+      "date": "2026",
+      "challenge": {
+        "uz": "Ko‘p filial va operatorlar ma’lumotini bitta tizimda boshqarish.",
+        "ru": "Управлять данными множества филиалов и операторов в одной системе.",
+        "en": "Manage data from many branches and operators in one system."
+      },
+      "solution": {
+        "uz": "Rollar asosidagi dashboard, REST API, hisobotlar va real-time bildirishnomalar yaratildi.",
+        "ru": "Созданы панель с ролями, REST API, отчёты и Telegram-уведомления.",
+        "en": "Built a role-based dashboard, REST API, reports and Telegram notifications."
+      },
+      "role": {
+        "uz": "React interfeys, Express API, rollar tizimi, Excel hisobotlari va bildirishnoma integratsiyasini ishlab chiqdim.",
+        "ru": "Я разработал React-интерфейс, Express API, систему ролей, Excel-отчёты и интеграцию с Telegram.",
+        "en": "I developed the React interface, Express API, role system, Excel reports and Telegram integration."
+      },
+      "result": {
+        "uz": "Operatorlar va filiallar bitta tizimda ishlay boshladi, hisobot olish va sotuvlarni kuzatish avtomatlashtirildi.",
+        "ru": "Операторы и филиалы начали работать в одной системе, а отчёты и контроль продаж были автоматизированы.",
+        "en": "Operators and branches started working in one system, while reporting and sales tracking were automated."
+      },
+      "active": true
+    },
+    {
+      "id": "shopflow",
+      "slug": "shopflow",
+      "file": "ShopFlow.jsx",
+      "secondTab": "server/orders.js",
+      "name": {
+        "uz": "ShopFlow",
+        "ru": "ShopFlow",
+        "en": "ShopFlow"
+      },
+      "type": {
+        "uz": "Full-Stack onlayn savdo",
+        "ru": "Full-Stack интернет-магазин",
+        "en": "Full-Stack E-commerce"
+      },
+      "description": {
+        "uz": "Mahsulot katalogi, savat, buyurtma va admin boshqaruviga ega platforma",
+        "ru": "Платформа с каталогом, корзиной, заказами и админ-панелью",
+        "en": "A platform with a product catalog, cart, orders and admin management"
+      },
+      "features": [
+        "Product filter",
+        "Cart",
+        "Orders",
+        "Admin panel"
+      ],
+      "stack": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "image": "/assets/projects/shopflow.svg",
+      "github": "",
+      "live": "/demo/shopflow",
+      "date": "2026",
+      "challenge": {
+        "uz": "Mobil qurilmada ham tez ishlaydigan savdo jarayonini yaratish.",
+        "ru": "Создать быстрый процесс покупки, удобный и на мобильных устройствах.",
+        "en": "Create a fast shopping flow that also works well on mobile devices."
+      },
+      "solution": {
+        "uz": "Optimallashtirilgan katalog, savat va buyurtma API ishlab chiqildi.",
+        "ru": "Разработаны оптимизированный каталог, корзина и API заказов.",
+        "en": "Built an optimized catalog, cart and order API."
+      },
+      "role": {
+        "uz": "Mahsulot interfeysi, savat holati, buyurtma API va admin boshqaruvini yaratdim.",
+        "ru": "Я создал интерфейс товаров, управление состоянием корзины, API заказов и админ-панель.",
+        "en": "I built the product interface, cart state management, order API and admin controls."
+      },
+      "result": {
+        "uz": "Mobil xarid jarayoni soddalashdi, mahsulot qidirish va buyurtma berish tezlashdi.",
+        "ru": "Мобильная покупка стала проще, а поиск товаров и оформление заказов — быстрее.",
+        "en": "The mobile shopping flow became simpler, and product search and ordering became faster."
+      },
+      "active": true
+    },
+    {
+      "id": "devchat",
+      "slug": "devchat",
+      "file": "DevChat.jsx",
+      "secondTab": "socket.gateway.js",
+      "name": {
+        "uz": "DevChat",
+        "ru": "DevChat",
+        "en": "DevChat"
+      },
+      "type": {
+        "uz": "Real vaqt messenjeri",
+        "ru": "Мессенджер реального времени",
+        "en": "Real-Time Messenger"
+      },
+      "description": {
+        "uz": "JWT himoyasi va WebSocket asosidagi real vaqt chat ilovasi",
+        "ru": "Чат-приложение реального времени на WebSocket с JWT-защитой",
+        "en": "A real-time chat app based on WebSocket with JWT security"
+      },
+      "features": [
+        "Live messages",
+        "JWT auth",
+        "Online status",
+        "File sharing"
+      ],
+      "stack": [
+        "React",
+        "Socket.IO",
+        "Express"
+      ],
+      "image": "/assets/projects/devchat.svg",
+      "github": "",
+      "live": "/demo/devchat",
+      "date": "2025",
+      "challenge": {
+        "uz": "Xabarlarni real vaqtda xavfsiz yetkazish.",
+        "ru": "Безопасно доставлять сообщения в реальном времени.",
+        "en": "Deliver messages securely in real time."
+      },
+      "solution": {
+        "uz": "Socket ulanishlari, token tekshiruvi va online holat tizimi yaratildi.",
+        "ru": "Созданы socket-соединения, проверка токенов и система онлайн-статуса.",
+        "en": "Built socket connections, token verification and an online status system."
+      },
+      "role": {
+        "uz": "React chat interfeysi, Socket.IO ulanishlari, JWT himoyasi va online statusni ishlab chiqdim.",
+        "ru": "Я разработал React-интерфейс чата, соединения Socket.IO, JWT-защиту и онлайн-статус.",
+        "en": "I developed the React chat interface, Socket.IO connections, JWT security and online status."
+      },
+      "result": {
+        "uz": "Xabarlar real vaqtda yetkazildi, foydalanuvchi holati va xavfsiz ulanish ta’minlandi.",
+        "ru": "Сообщения доставляются в реальном времени, обеспечены статус пользователя и безопасное соединение.",
+        "en": "Messages are delivered in real time with user status tracking and secure connections."
+      },
+      "active": true
+    }
+  ],
+  "services": [
+    {
+      "id": "react",
+      "number": "01",
+      "title": {
+        "uz": "React web-sayt yaratish",
+        "ru": "Создание сайтов на React",
+        "en": "React website development"
+      },
+      "text": {
+        "uz": "Tez, responsive va komponentlarga ajratilgan zamonaviy React web-saytlar.",
+        "ru": "Быстрые, адаптивные и компонентные современные сайты на React.",
+        "en": "Fast, responsive and component-based modern React websites."
+      },
+      "command": "npm create vite@latest",
+      "active": true
+    },
+    {
+      "id": "admin",
+      "number": "02",
+      "title": {
+        "uz": "Admin panel yaratish",
+        "ru": "Создание админ-панели",
+        "en": "Admin panel development"
+      },
+      "text": {
+        "uz": "Login, rollar, statistika, jadval, filter va boshqaruv funksiyalari.",
+        "ru": "Вход, роли, статистика, таблицы, фильтры и функции управления.",
+        "en": "Login, roles, analytics, tables, filters and management features."
+      },
+      "command": "role_based_access = true",
+      "active": true
+    },
+    {
+      "id": "node",
+      "number": "03",
+      "title": {
+        "uz": "Node.js backend",
+        "ru": "Backend на Node.js",
+        "en": "Node.js backend"
+      },
+      "text": {
+        "uz": "Xavfsiz, tartibli va kengaytiriladigan Express.js serverlar.",
+        "ru": "Безопасные, структурированные и масштабируемые серверы Express.js.",
+        "en": "Secure, structured and scalable Express.js servers."
+      },
+      "command": "node server.js",
+      "active": true
+    },
+    {
+      "id": "api",
+      "number": "04",
+      "title": {
+        "uz": "REST API",
+        "ru": "REST API",
+        "en": "REST API"
+      },
+      "text": {
+        "uz": "Frontend, mobil ilova va tashqi servislar uchun toza API endpointlar.",
+        "ru": "Чистые API-эндпоинты для frontend, мобильных приложений и внешних сервисов.",
+        "en": "Clean API endpoints for frontend, mobile apps and external services."
+      },
+      "command": "POST /api/resource",
+      "active": true
+    },
+    {
+      "id": "crm",
+      "number": "05",
+      "title": {
+        "uz": "CRM tizimi",
+        "ru": "CRM-система",
+        "en": "CRM system"
+      },
+      "text": {
+        "uz": "Mijozlar, sotuvlar, operatorlar, filiallar va hisobotlarni boshqarish.",
+        "ru": "Управление клиентами, продажами, операторами, филиалами и отчётами.",
+        "en": "Manage customers, sales, operators, branches and reports."
+      },
+      "command": "crm.status = online",
+      "active": true
+    },
+    {
+      "id": "deploy",
+      "number": "06",
+      "title": {
+        "uz": "Saytni hostingga joylash",
+        "ru": "Размещение сайта на хостинге",
+        "en": "Website deployment"
+      },
+      "text": {
+        "uz": "Frontendni Netlify/Vercel, backendni Railway/Renderga joylash.",
+        "ru": "Размещение frontend на Netlify/Vercel, backend — на Railway/Render.",
+        "en": "Deploy frontend to Netlify/Vercel and backend to Railway/Render."
+      },
+      "command": "npm run deploy",
+      "active": true
+    },
+    {
+      "id": "fix",
+      "number": "07",
+      "title": {
+        "uz": "Xatolarni tuzatish",
+        "ru": "Исправление ошибок",
+        "en": "Bug fixing"
+      },
+      "text": {
+        "uz": "Frontend, backend, API, deploy va responsive xatolarini aniqlash.",
+        "ru": "Поиск и исправление ошибок frontend, backend, API, deployment и адаптивности.",
+        "en": "Find and fix frontend, backend, API, deployment and responsive issues."
+      },
+      "command": "debug --fix-all",
+      "active": true
+    }
+  ],
+  "skills": [
+    {
+      "id": "frontend",
+      "index": "01 / frontend",
+      "title": "Frontend",
+      "items": [
+        {
+          "name": "HTML / CSS / SCSS",
+          "level": 95
+        },
+        {
+          "name": "JavaScript",
+          "level": 91
+        },
+        {
+          "name": "React / Vite",
+          "level": 90
+        },
+        {
+          "name": "Vue.js",
+          "level": 84
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "backend",
+      "index": "02 / backend",
+      "title": "Backend",
+      "items": [
+        {
+          "name": "Node.js",
+          "level": 88
+        },
+        {
+          "name": "Express.js",
+          "level": 87
+        },
+        {
+          "name": "REST API",
+          "level": 92
+        },
+        {
+          "name": "JWT / Security",
+          "level": 83
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "database",
+      "index": "03 / database",
+      "title": "Database & Integrations",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "level": 85
+        },
+        {
+          "name": "MongoDB",
+          "level": 82
+        },
+        {
+          "name": "Webhooks / Integrations",
+          "level": 91
+        },
+        {
+          "name": "Axios / Fetch",
+          "level": 90
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "tools",
+      "index": "04 / tools",
+      "title": "Tools & Deployment",
+      "items": [
+        {
+          "name": "Git / GitHub",
+          "level": 90
+        },
+        {
+          "name": "Netlify / Vercel",
+          "level": 87
+        },
+        {
+          "name": "Railway / Render",
+          "level": 86
+        },
+        {
+          "name": "SEO",
+          "level": 82
+        }
+      ],
+      "active": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "html-css-js",
+      "year": "2024",
+      "title": {
+        "uz": "HTML, CSS va JavaScript",
+        "ru": "HTML, CSS и JavaScript",
+        "en": "HTML, CSS and JavaScript"
+      },
+      "text": {
+        "uz": "Responsive landing page, portfolio va interaktiv web sahifalar yaratishni boshladim.",
+        "ru": "Начал создавать адаптивные лендинги, портфолио и интерактивные веб-страницы.",
+        "en": "Started building responsive landing pages, portfolios and interactive web pages."
+      },
+      "active": true
+    },
+    {
+      "id": "react-vue",
+      "year": "2025",
+      "title": {
+        "uz": "React va Vue.js",
+        "ru": "React и Vue.js",
+        "en": "React and Vue.js"
+      },
+      "text": {
+        "uz": "Komponentli arxitektura, state management, API integratsiyasi va dashboardlar ustida ishladim.",
+        "ru": "Работал с компонентной архитектурой, управлением состоянием, API-интеграциями и панелями.",
+        "en": "Worked with component architecture, state management, API integration and dashboards."
+      },
+      "active": true
+    },
+    {
+      "id": "node-express",
+      "year": "2025",
+      "title": {
+        "uz": "Node.js va Express",
+        "ru": "Node.js и Express",
+        "en": "Node.js and Express"
+      },
+      "text": {
+        "uz": "REST API, authentication, validation va ma’lumotlar bazasi bilan ishlaydigan backendlar yaratdim.",
+        "ru": "Создавал backend с REST API, аутентификацией, валидацией и базами данных.",
+        "en": "Built backends with REST APIs, authentication, validation and databases."
+      },
+      "active": true
+    },
+    {
+      "id": "crm-automation",
+      "year": "2026",
+      "title": {
+        "uz": "CRM va biznes avtomatizatsiyasi",
+        "ru": "CRM и автоматизация бизнеса",
+        "en": "CRM and business automation"
+      },
+      "text": {
+        "uz": "Ta’lim CRM, operator tizimlari, test platformalari va boshqaruv panellarini productionga chiqardim.",
+        "ru": "Запустил в production образовательные CRM, операторские системы, тестовые платформы и панели управления.",
+        "en": "Deployed education CRMs, operator systems, testing platforms and management dashboards to production."
+      },
+      "active": true
+    }
+  ]
+}

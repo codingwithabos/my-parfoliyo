@@ -1,0 +1,16 @@
+SHU SAYTGA ADMIN PANEL QO'SHILDI
+
+- Asosiy dizayn va mobil Home tuzatishlari saqlandi.
+- Yuqori menyu, mobil yon menyu va footerga Admin panel havolasi qo'shildi.
+- Admin manzili: /admin
+- Netlify frontend Railway backendga VITE_API_URL orqali ulanadi.
+- Netlify uchun /admin/* SPA redirect qo'shildi.
+- Oldingi PRODUCTION BUILD paneli olib tashlangan holatda qoldirildi.
+
+Netlify Environment Variable:
+VITE_API_URL=https://SIZNING-RAILWAY-DOMENINGIZ.up.railway.app
+
+Railway Variables:
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=kuchli_parol
+ADMIN_SECRET=kamida_32_belgili_maxfiy_kod

@@ -1,0 +1,7 @@
+ADMIN PANEL KIRISH
+
+Manzil: /admin
+Login: Railway Variables ichidagi ADMIN_USERNAME (standart: admin)
+Parol: Railway Variables ichidagi ADMIN_PASSWORD
+
+Parol kod ichiga yozilmagan. Xavfsizlik uchun Railway Variables orqali saqlanadi.

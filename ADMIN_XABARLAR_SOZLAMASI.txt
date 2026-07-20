@@ -1,0 +1,18 @@
+ADMIN XABARLARI — TELEGRAM BOTSIZ
+
+TAYYOR QILINGANLAR:
+1. Telegram bot, polling, /start va bot komandalar olib tashlangan.
+2. Saytning qolgan dizayni, shaxsiy Telegram havolasi va boshqa bo‘limlari saqlangan.
+3. Murojaat formasiga Ism, Telefon, Telegram username, Email, Mavzu va Xabar maydonlari qo‘shilgan.
+4. Netlify’da xabarlar Forms -> portfolio-contact bo‘limiga tushadi.
+5. Lokal yoki Railway backend ishlaganda xabarlar /admin -> Xabarlar bo‘limida saqlanadi.
+6. Admin panelda Mavzu, aloqa ma’lumotlari, xabar, vaqt va holat ko‘rinadi.
+7. Holatlar: Yangi, O‘qildi, Javob berildi, Ish boshlandi, Yakunlandi, Spam.
+
+NETLIFY EMAILGA HAM KELSIN DESANGIZ (BIR MARTA QILINADI):
+1. Netlify saytingizni oching.
+2. Forms -> Form notifications bo‘limiga kiring.
+3. Add notification -> Email notification ni bosing.
+4. Administrator emailini kiriting va Save qiling.
+
+BOT_TOKEN, CHAT_ID va TELEGRAM_BOT_USERNAME kerak emas.

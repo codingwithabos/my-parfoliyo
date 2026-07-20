@@ -1,0 +1,7 @@
+YANGI VERSIYA
+
+1. ZIP ichidan BOSHLASH.cmd orqali ishga tushirish mumkin.
+2. Dizayn va rang faqat Admin > Dizayn bo‘limida o‘zgartiriladi.
+3. Ommaviy sahifada dizayn tugmasi yo‘q.
+4. Telegram bot va bot sozlamalari butunlay olib tashlangan.
+5. Netlifydagi xabarlar Forms > portfolio-contact ichiga tushadi.

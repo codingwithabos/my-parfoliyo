@@ -1,0 +1,8 @@
+YANGILANISHLAR:
+
+1. Sayt ochilishidagi terminal animatsiya tezlashtirildi.
+2. Telefon va planshetda menyu chap tomondan ochiladigan to'liq side-drawer ko'rinishiga o'tkazildi.
+3. Menyuga profil rasmi, bo'lim ikonkalari, aktiv bo'lim belgisi, til va rang sozlamalari qo'shildi.
+4. Menyu sayt tanlangan rang va dizayniga avtomatik moslashadi.
+5. Dashboard dizaynida ham chap menyu yangi ko'rinishda doimiy panel sifatida ishlaydi.
+6. Production build muvaffaqiyatli tekshirildi.

@@ -1,0 +1,24 @@
+ADMINDA NIMALARNI O‘ZGARTIRISH MUMKIN?
+=====================================
+- Profil: ism, yo‘nalish, rasm, telefon, email, Telegram va “Men haqimda” matnlari
+- Loyihalar: qo‘shish, tahrirlash, yashirish va o‘chirish
+- Xizmatlar: qo‘shish, tahrirlash, yashirish va o‘chirish
+- Ko‘nikmalar: bo‘limlar, texnologiyalar va foizlar
+- Tajriba: yil, sarlavha va tavsif
+- Mijoz xabarlari: ko‘rish, status berish, muhim qilish, o‘chirish va Excelga yuklash
+- Xavfsizlik: admin parolini almashtirish
+
+OLIB TASHLANGAN ORTIQCHA BO‘LIMLAR
+=================================
+- Blog
+- Demo sertifikatlar
+- Sun’iy mijoz fikrlari
+- GitHub statistikasi
+- Workflow / ish jarayoni
+- PWA o‘rnatish tugmasi
+- Ommaviy sahifadagi Admin tugmasi
+- Ortiqcha kirish va cursor animatsiyalari
+- Telegram botni ulash bo‘yicha keraksiz oynalar
+
+Admin panel yashirin manzilda qoladi:
+http://localhost:3001/admin

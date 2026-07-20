@@ -1,0 +1,9 @@
+TELEGRAM BOT TO‘LIQ OLIB TASHLANDI
+
+1. Saytda Telegram bot, polling, /start va bot komandalar yo‘q.
+2. Netlifyda yuborilgan barcha xabarlar Project → Forms bo‘limiga tushadi.
+3. Admin xohlasa Netlify Forms notification orqali o‘z emailiga xabar oladi.
+4. Lokal ishga tushirilganda xabarlar /admin ichidagi Xabarlar bo‘limida saqlanadi.
+5. BOT_TOKEN, CHAT_ID va Telegram bot environment variablelari kerak emas.
+
+Forma maydonlari: Ism, Telefon, Telegram username, Email, Mavzu va Xabar.

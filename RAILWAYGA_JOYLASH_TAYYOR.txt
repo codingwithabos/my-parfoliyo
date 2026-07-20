@@ -1,0 +1,47 @@
+RAILWAYGA GITHUB ORQALI JOYLASH
+
+1. Ushbu papkani Desktop'ga to'liq oching.
+2. Papka ichida PowerShell oching.
+3. Tekshirish:
+   npm install
+   npm run build
+
+4. GitHub repository'ni yangilash:
+   git init
+   git add .
+   git commit -m "Portfolio Railway toliq tuzatildi"
+   git branch -M main
+   git remote remove origin
+   git remote add origin https://github.com/codingwithabos/my-parfoliyo.git
+   git push -u origin main --force
+
+"No such remote" chiqsa keyingi komandaga o'ting.
+"remote origin already exists" chiqsa:
+   git remote set-url origin https://github.com/codingwithabos/my-parfoliyo.git
+   git push -u origin main --force
+
+5. Railway service sozlamalari avtomatik olinadi:
+   Build: npm ci --include=dev && npm run build
+   Start: npm start
+   Health check: /api/health
+
+6. Railway Variables uchun tavsiya:
+   NODE_ENV=production
+   TRUST_PROXY=1
+   ADMIN_USERNAME=admin
+   ADMIN_PASSWORD=kamida_12_belgili_kuchli_parol
+   ADMIN_SECRET=kamida_32_belgili_tasodifiy_kod
+
+7. PostgreSQL ishlatilsa portfolio service'ga DATABASE_URL reference variable qo'shing.
+   PGSSL=auto
+   PG_POOL_MAX=5
+
+8. Railway domen:
+   Settings -> Networking -> Generate Domain
+
+Tekshirish:
+   /api/health
+   /admin
+
+Saytdagi murojaatlar Railway'da /api/contact orqali admin panelga saqlanadi.
+Telegram bot kerak emas.
